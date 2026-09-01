@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" role="img" aria-labelledby="cpTitle cpDesc">
+  <title id="cpTitle">What I Deliver — System Capabilities</title>
+  <desc id="cpDesc">Frontend development: HTML5, CSS3 and modern JavaScript, React single-page apps with reusable components, Bootstrap and Tailwind responsive layouts, pixel-perfect cross-browser mobile-first builds. UI/UX and graphic design: Figma wireframes to polished interfaces, Photoshop, Illustrator and Canva production work, banners, business cards and email signatures, high-resolution vexel art and photo enhancement. Backend and WordPress: PHP and MySQL dynamic applications, Node.js and Express REST APIs, Firebase and MongoDB integrations, custom WordPress themes and e-commerce. Freelance delivery: 40+ projects shipped on Fiverr and Upwork, 5+ years of experience across 5+ companies, live e-commerce builds, fast communication and unlimited revisions.</desc>
+
+  <defs>
+    <radialGradient id="cpGlowL" cx="0%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cpGlowR" cx="100%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cpScan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00D9FF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cpClip">
+      <rect x="0" y="0" width="1400" height="640" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cpClip)">
+    <rect x="0" y="0" width="1400" height="640" fill="#0D1117"/>
+    <rect x="0" y="0" width="1400" height="640" fill="url(#cpGlowL)"/>
+    <rect x="0" y="0" width="1400" height="640" fill="url(#cpGlowR)"/>
+
+    <!-- header -->
+    <circle cx="52" cy="46" r="4" fill="#00D9FF"/>
+    <text x="72" y="52" font-family="'Cascadia Code','Consolas','SF Mono',Menlo,monospace" font-size="19" letter-spacing="4" fill="#00D9FF">WHAT I DELIVER // SYSTEM CAPABILITIES</text>
+    <text x="1360" y="52" font-family="'Cascadia Code','Consolas','SF Mono',Menlo,monospace" font-size="13" letter-spacing="2" fill="#45536A" text-anchor="end">SPR·SYS // ENGINEERED FOR CLIENTS</text>
+    <line x1="40" y1="76" x2="1360" y2="76" stroke="#1C2536"/>
+
+    <!-- ============ Q1 · FRONTEND DEVELOPMENT ============ -->
+    <g>
+      <rect x="40" y="100" width="644" height="246" rx="14" fill="#0C1322" stroke="#1C2536"/>
+      <rect x="40" y="100" width="4" height="246" rx="2" fill="#00D9FF" fill-opacity="0.6"/>
+      <g stroke="#00D9FF" stroke-width="2" fill="none" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 88 136 L 76 150 L 88 164"/>
+        <path d="M 106 136 L 118 150 L 106 164"/>
+        <line x1="101" y1="132" x2="93" y2="168"/>
+      </g>
+      <text x="136" y="160" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#E8EDF5">Frontend Development</text>
+      <g font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="17" fill="#8B96A9">
+        <circle cx="88" cy="200" r="3" fill="#00D9FF"/><text x="106" y="206">HTML5 · CSS3 · modern JavaScript (ES6+)</text>
+        <circle cx="88" cy="236" r="3" fill="#00D9FF"/><text x="106" y="242">React SPAs with reusable components</text>
+        <circle cx="88" cy="272" r="3" fill="#00D9FF"/><text x="106" y="278">Bootstrap &amp; Tailwind responsive layouts</text>
+        <circle cx="88" cy="308" r="3" fill="#00D9FF"/><text x="106" y="314">Pixel-perfect, cross-browser, mobile-first</text>
+      </g>
+    </g>
+
+    <!-- ============ Q2 · UI/UX &amp; GRAPHIC DESIGN ============ -->
+    <g>
+      <rect x="716" y="100" width="644" height="246" rx="14" fill="#0C1322" stroke="#1C2536"/>
+      <rect x="716" y="100" width="4" height="246" rx="2" fill="#7C5CFF" fill-opacity="0.6"/>
+      <g stroke="#7C5CFF" stroke-width="2" fill="none" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 774 130 L 790 146 L 774 166 L 758 146 Z"/>
+        <circle cx="774" cy="148" r="4" fill="#7C5CFF" stroke="none"/>
+        <line x1="774" y1="152" x2="774" y2="166"/>
+      </g>
+      <text x="812" y="160" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#E8EDF5">UI/UX &amp; Graphic Design</text>
+      <g font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="17" fill="#8B96A9">
+        <circle cx="764" cy="200" r="3" fill="#7C5CFF"/><text x="782" y="206">Figma wireframes to polished interfaces</text>
+        <circle cx="764" cy="236" r="3" fill="#7C5CFF"/><text x="782" y="242">Photoshop · Illustrator · Canva production</text>
+        <circle cx="764" cy="272" r="3" fill="#7C5CFF"/><text x="782" y="278">Banners, business cards, email signatures</text>
+        <circle cx="764" cy="308" r="3" fill="#7C5CFF"/><text x="782" y="314">High-res vexel art &amp; photo enhancement</text>
+      </g>
+    </g>
+
+    <!-- ============ Q3 · BACKEND &amp; WORDPRESS ============ -->
+    <g>
+      <rect x="40" y="364" width="644" height="246" rx="14" fill="#0C1322" stroke="#1C2536"/>
+      <rect x="40" y="364" width="4" height="246" rx="2" fill="#00D9FF" fill-opacity="0.6"/>
+      <g stroke="#00D9FF" stroke-width="2" fill="none" stroke-opacity="0.85">
+        <ellipse cx="95" cy="398" rx="20" ry="8"/>
+        <path d="M 75 398 L 75 430 A 20 8 0 0 0 115 430 L 115 398"/>
+        <path d="M 75 414 A 20 8 0 0 0 115 414"/>
+      </g>
+      <text x="136" y="424" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#E8EDF5">Backend &amp; WordPress</text>
+      <g font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="17" fill="#8B96A9">
+        <circle cx="88" cy="464" r="3" fill="#00D9FF"/><text x="106" y="470">PHP &amp; MySQL dynamic applications</text>
+        <circle cx="88" cy="500" r="3" fill="#00D9FF"/><text x="106" y="506">Node.js / Express REST APIs</text>
+        <circle cx="88" cy="536" r="3" fill="#00D9FF"/><text x="106" y="542">Firebase &amp; MongoDB integrations</text>
+        <circle cx="88" cy="572" r="3" fill="#00D9FF"/><text x="106" y="578">Custom WordPress themes &amp; e-commerce</text>
+      </g>
+    </g>
+
+    <!-- ============ Q4 · FREELANCE DELIVERY ============ -->
+    <g>
+      <rect x="716" y="364" width="644" height="246" rx="14" fill="#0C1322" stroke="#1C2536"/>
+      <rect x="716" y="364" width="4" height="246" rx="2" fill="#7C5CFF" fill-opacity="0.6"/>
+      <g stroke="#7C5CFF" stroke-width="2" fill="none" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 774 396 C 782 404 784 418 778 432 L 770 432 C 764 418 766 404 774 396 Z"/>
+        <circle cx="774" cy="414" r="3.5"/>
+        <path d="M 768 428 L 760 438 M 780 428 L 788 438"/>
+        <path d="M 771 434 L 774 442 L 777 434"/>
+      </g>
+      <text x="812" y="424" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#E8EDF5">Freelance Delivery</text>
+      <g font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="17" fill="#8B96A9">
+        <circle cx="764" cy="464" r="3" fill="#7C5CFF"/><text x="782" y="470">40+ projects shipped on Fiverr &amp; Upwork</text>
+        <circle cx="764" cy="500" r="3" fill="#7C5CFF"/><text x="782" y="506">5+ years experience · 5+ companies</text>
+        <circle cx="764" cy="536" r="3" fill="#7C5CFF"/><text x="782" y="542">E-commerce builds — live in production</text>
+        <circle cx="764" cy="572" r="3" fill="#7C5CFF"/><text x="782" y="578">Fast communication &amp; unlimited revisions</text>
+      </g>
+    </g>
+
+    <!-- scan sweep -->
+    <rect x="-260" y="0" width="240" height="640" fill="url(#cpScan)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1680 0" dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="0.5" y="0.5" width="1399" height="639" rx="16" fill="none" stroke="#1C2536"/>
+  </g>
+</svg>
