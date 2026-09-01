@@ -80,8 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-00D9FF?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00D9FF?style=for-the-badge" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/📍_Location-Naogaon,_Bangladesh-00D9FF?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/🌍_Work-Remote_Ready-00D9FF?style=for-the-badge" alt="Remote Ready"/>
 </p>
 
@@ -89,7 +88,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Suprio Pramanik** — a **Full-Stack Developer & AI Automation Engineer** from **Naogaon, Bangladesh**, building complete products end to end — frontend, backend and the automated workflows in between.
+I'm **Suprio Pramanik** — a **Full-Stack Developer & AI Automation Engineer** from **Naogaon, Bangladesh**, currently working as a **Software Engineer at Compliance BD Ltd.** — building complete products end to end: frontend, backend and the automated workflows in between.
 
 My core is **MERN full-stack engineering** — **React 18 + Vite** frontends, **Node.js/Express with MongoDB & Redis** on the server — shipping **production e-commerce and SaaS platforms** with real payments (**Stripe · SSLCommerz · bKash**), Cloudinary media pipelines and **Dockerized deployments** behind PM2, Traefik and Coolify. My edge is **AI automation** — from an **AI voice-agent SaaS** serving SMBs across EU & MENA in 9 languages, to agents and workflows that take repetitive work off people's plates. Backing that core: a designer's eye (**Photoshop, Illustrator, Figma, Canva**) and **40+ freelance projects** shipped on **Fiverr & Upwork** since 2020. **Diploma in Computer Technology**, Cox's Bazar Polytechnic Institute (2018–2023).
 
@@ -183,10 +182,10 @@ My core is **MERN full-stack engineering** — **React 18 + Vite** frontends, **
 | Project | What it is | Stack Highlights |
 |---|---|---|
 | **[Compliance BD Shop](https://shop.compliancebd.com)** | Premium e-commerce extension of Compliance BD Ltd. (fire safety & engineering) | React 18 · Vite · Tailwind · Express 4 · Mongoose 8 · Redis · SSLCommerz · bKash · Docker |
-| **GadgetHub** | Daraz-inspired MERN e-commerce — storefront + admin panel, promo engine, PDF receipts, Redis rate limiting | MERN · JWT · Multer · Nodemailer · SSLCommerz · bKash · npm workspaces |
-| **Unicorn Technology** | B2B SaaS platform for AI voice agents — SMBs across EU & MENA in 9 languages | React 18 · Node 20 · Stripe · Google OAuth · PM2 · Traefik |
+| **[GadgetHub](https://gadgethub.bd)** | Daraz-inspired MERN e-commerce — storefront + admin panel, promo engine, PDF receipts, Redis rate limiting | MERN · JWT · Multer · Nodemailer · SSLCommerz · bKash · npm workspaces |
+| **[Unicorn Technology](https://unicorntechnology.ee/)** | B2B SaaS platform for AI voice agents — SMBs across EU & MENA in 9 languages | React 18 · Node 20 · Stripe · Google OAuth · PM2 · Traefik |
 | **[SafetyShops](https://safetyshops.us)** | SaaS-grade product showcase with full admin CMS & Cloudinary-backed media | React 18 · Express 4 · Mongoose 8 · Cloudinary · Helmet |
-| **Titan Energy** | Product catalogue & marketing site with full admin panel | React 18 · Tailwind · Radix UI · Framer Motion · Cloudinary · Docker · Coolify |
+| **[Titan Energy](https://titanenergy.bd/)** | Product catalogue & marketing site with full admin panel | React 18 · Tailwind · Radix UI · Framer Motion · Cloudinary · Docker · Coolify |
 
 ---
 
@@ -240,11 +239,11 @@ My core is **MERN full-stack engineering** — **React 18 + Vite** frontends, **
 
 <div align="center">
 
-  <h3>🚀 Open to Freelance Projects & Full-Time Opportunities</h3>
+  <h3>🚀 Open to Freelance Projects & Collaborations</h3>
 
   <p>
-    I'm actively taking on projects where I can build meaningful products,<br/>
-    collaborate with great clients and teams, and keep growing as a developer & designer.
+    Alongside my role at Compliance BD Ltd., I take on select freelance projects —<br/>
+    building meaningful products and collaborating with great clients and teams.
   </p>
 
   <br/>
@@ -284,8 +283,8 @@ My core is **MERN full-stack engineering** — **React 18 + Vite** frontends, **
   <br/>
 
   <p>
-    <b>📍 Location:</b> Dhaka, Bangladesh<br/>
-    <b>💼 Status:</b> Open to Freelance & Full-Time<br/>
+    <b>📍 Location:</b> Naogaon, Bangladesh<br/>
+    <b>💼 Status:</b> Software Engineer at Compliance BD Ltd. & Part-Time Freelancer<br/>
     <b>🌍 Preference:</b> Remote-First | Flexible<br/>
     <b>⚡ Response Time:</b> Fast & Professional
   </p>
