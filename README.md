@@ -251,8 +251,8 @@ My foundation is **frontend engineering** — HTML, CSS, JavaScript and React �
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/supriopramanik" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/🔍_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      <a href="https://www.fiverr.com/suprio_pramanik/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/💚_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr - Suprio Pramanik"/>
       </a>
     </td>
     <td align="center">
