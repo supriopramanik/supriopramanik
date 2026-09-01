@@ -256,11 +256,6 @@ My foundation is **frontend engineering** — HTML, CSS, JavaScript and React �
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/SuprioE" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x" alt="Twitter"/>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://instagram.com/suprio_pramanik" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
       </a>
