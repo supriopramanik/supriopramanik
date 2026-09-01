@@ -68,7 +68,7 @@
 <!-- Dynamic Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Suprio+Pramanik;Web+Developer+%F0%9F%92%BB;UI%2FUX+%26+Graphic+Designer+%F0%9F%8E%A8;React+%C2%B7+WordPress+%C2%B7+PHP+%E2%9A%A1;Freelancing+on+Fiverr+%26+Upwork+%F0%9F%9A%80" alt="Suprio Pramanik - Web Developer, UI/UX and Graphic Designer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Suprio+Pramanik;Full-Stack+Developer+%F0%9F%92%BB;AI+Automation+Engineer+%F0%9F%A4%96;MERN+%C2%B7+Docker+%C2%B7+AI+Agents+%E2%9A%A1;Freelancing+on+Fiverr+%26+Upwork+%F0%9F%9A%80" alt="Suprio Pramanik - Full-Stack Developer and AI Automation Engineer" />
   </a>
 </h1>
 
@@ -89,16 +89,16 @@
 
 ## 👨‍💻 About Me
 
-I'm **Suprio Pramanik** — a **Web Developer, UI/UX & Graphic Designer** from **Dhaka, Bangladesh**, turning ideas into clean, responsive, client-ready websites and visuals.
+I'm **Suprio Pramanik** — a **Full-Stack Developer & AI Automation Engineer** from **Naogaon, Bangladesh**, building complete products end to end — frontend, backend and the automated workflows in between.
 
-My foundation is **frontend engineering** — HTML, CSS, JavaScript and React — backed by **PHP/MySQL and Node.js** on the server and a designer's eye trained in **Photoshop, Illustrator, Figma and Canva**. Since 2020 I've been freelancing full-time on **Fiverr and Upwork**, shipping **40+ projects** for clients across **5+ companies** — from e-commerce stores to agency sites, portfolios and custom WordPress builds. **Diploma in Computer Technology**, Cox's Bazar Polytechnic Institute (2018–2023) · **Web Development Intern (PHP)**, Atova Technology (2022–2023).
+My core is **MERN full-stack engineering** — **React 18 + Vite** frontends, **Node.js/Express with MongoDB & Redis** on the server — shipping **production e-commerce and SaaS platforms** with real payments (**Stripe · SSLCommerz · bKash**), Cloudinary media pipelines and **Dockerized deployments** behind PM2, Traefik and Coolify. My edge is **AI automation** — from an **AI voice-agent SaaS** serving SMBs across EU & MENA in 9 languages, to agents and workflows that take repetitive work off people's plates. Backing that core: a designer's eye (**Photoshop, Illustrator, Figma, Canva**) and **40+ freelance projects** shipped on **Fiverr & Upwork** since 2020. **Diploma in Computer Technology**, Cox's Bazar Polytechnic Institute (2018–2023).
 
 **🎯 Current Mission:**
 
-- 💻 Building **responsive, pixel-perfect websites** with React & WordPress
-- 🎨 Designing **UI/UX interfaces & brand graphics** that convert
-- 🛒 Shipping **e-commerce experiences** end to end
-- 📈 Sharpening **JavaScript, React** & modern backend architecture
+- 🤖 Building **AI voice agents & automation workflows** for real businesses
+- 🛒 Shipping **production e-commerce** — storefront to **Stripe / SSLCommerz / bKash** checkout
+- 🏗️ Crafting **SaaS-grade platforms** — admin CMS, Cloudinary media, Redis rate limiting
+- 🚀 Deploying with **Docker · PM2 · Traefik · Coolify** on real VPS infrastructure
 
 **🔗 Explore My Work:** **[supriopramanik.github.io/portfolio](https://supriopramanik.github.io/portfolio/)**
 
@@ -110,45 +110,52 @@ My foundation is **frontend engineering** — HTML, CSS, JavaScript and React �
 
 ### Frontend Development 🎨
 
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router_v6-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development ⚙️
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express_4-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose_8-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Passport](https://img.shields.io/badge/Passport_·_Google_OAuth-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge)
+
+### Payments & Integrations 💳
+
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-73BE4A?style=for-the-badge)
+![bKash](https://img.shields.io/badge/bKash-E2136E?style=for-the-badge)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9DCE?style=for-the-badge)
+
+### DevOps & Deployment 🚀
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-8B5CF6?style=for-the-badge)
+![Hostinger VPS](https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design Tools 🖌️
 
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### CMS, Cloud & Hosting ☁️
-
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Tools & Platforms 🔧
 
@@ -157,8 +164,7 @@ My foundation is **frontend engineering** — HTML, CSS, JavaScript and React �
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![npm workspaces](https://img.shields.io/badge/npm_workspaces-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -167,8 +173,20 @@ My foundation is **frontend engineering** — HTML, CSS, JavaScript and React �
 ## 💼 What I Deliver
 
 <div align="center">
-  <img src="./assets/readme/capabilities.svg" width="100%" alt="System capabilities — Frontend Development: HTML5, CSS3, modern JavaScript, React SPAs, Bootstrap and Tailwind responsive layouts, pixel-perfect cross-browser builds. UI/UX and Graphic Design: Figma wireframes to polished interfaces, Photoshop, Illustrator and Canva production, banners, business cards, email signatures, high-res vexel art. Backend and WordPress: PHP and MySQL applications, Node.js and Express REST APIs, Firebase and MongoDB integrations, custom WordPress themes and e-commerce. Freelance Delivery: 40+ projects on Fiverr and Upwork, 5+ years of experience, live e-commerce builds, fast communication and unlimited revisions."/>
+  <img src="./assets/readme/capabilities.svg" width="100%" alt="System capabilities — Frontend Development: React 18 SPAs with Vite and React Router v6, Tailwind CSS, Framer Motion and Radix UI, modern JavaScript, pixel-perfect cross-browser builds. UI/UX and Graphic Design: Figma wireframes to polished interfaces, Photoshop, Illustrator and Canva production, banners, business cards, email signatures, high-res vexel art. Backend Engineering: Node.js and Express REST APIs, MongoDB with Mongoose and Redis caching, JWT auth with Google OAuth, Stripe, SSLCommerz and bKash payments. Freelance Delivery: 40+ projects on Fiverr and Upwork, 5+ years of experience, live e-commerce builds, fast communication and unlimited revisions."/>
 </div>
+
+---
+
+## 🚀 Recent Builds
+
+| Project | What it is | Stack Highlights |
+|---|---|---|
+| **[Compliance BD Shop](https://shop.compliancebd.com)** | Premium e-commerce extension of Compliance BD Ltd. (fire safety & engineering) | React 18 · Vite · Tailwind · Express 4 · Mongoose 8 · Redis · SSLCommerz · bKash · Docker |
+| **GadgetHub** | Daraz-inspired MERN e-commerce — storefront + admin panel, promo engine, PDF receipts, Redis rate limiting | MERN · JWT · Multer · Nodemailer · SSLCommerz · bKash · npm workspaces |
+| **Unicorn Technology** | B2B SaaS platform for AI voice agents — SMBs across EU & MENA in 9 languages | React 18 · Node 20 · Stripe · Google OAuth · PM2 · Traefik |
+| **[SafetyShops](https://safetyshops.us)** | SaaS-grade product showcase with full admin CMS & Cloudinary-backed media | React 18 · Express 4 · Mongoose 8 · Cloudinary · Helmet |
+| **Titan Energy** | Product catalogue & marketing site with full admin panel | React 18 · Tailwind · Radix UI · Framer Motion · Cloudinary · Docker · Coolify |
 
 ---
 

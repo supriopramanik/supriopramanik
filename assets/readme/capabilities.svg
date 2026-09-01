@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" role="img" aria-labelledby="cpTitle cpDesc">
   <title id="cpTitle">What I Deliver — System Capabilities</title>
-  <desc id="cpDesc">Frontend development: HTML5, CSS3 and modern JavaScript, React single-page apps with reusable components, Bootstrap and Tailwind responsive layouts, pixel-perfect cross-browser mobile-first builds. UI/UX and graphic design: Figma wireframes to polished interfaces, Photoshop, Illustrator and Canva production work, banners, business cards and email signatures, high-resolution vexel art and photo enhancement. Backend and WordPress: PHP and MySQL dynamic applications, Node.js and Express REST APIs, Firebase and MongoDB integrations, custom WordPress themes and e-commerce. Freelance delivery: 40+ projects shipped on Fiverr and Upwork, 5+ years of experience across 5+ companies, live e-commerce builds, fast communication and unlimited revisions.</desc>
+  <desc id="cpDesc">Frontend development: React 18 single-page apps with Vite and React Router v6, Tailwind CSS, Framer Motion and Radix UI, Context API state with Axios interceptors, pixel-perfect cross-browser mobile-first builds. UI/UX and graphic design: Figma wireframes to polished interfaces, Photoshop, Illustrator and Canva production work, banners, business cards and email signatures, high-resolution vexel art and photo enhancement. Backend engineering: Node.js and Express 4 REST APIs in ESM, MongoDB with Mongoose 8 and Redis caching, JWT auth with Google OAuth and rate limiting, Stripe, SSLCommerz and bKash payments. Freelance delivery: 40+ projects shipped on Fiverr and Upwork, 5+ years of experience across 5+ companies, live e-commerce builds, fast communication and unlimited revisions.</desc>
 
   <defs>
     <radialGradient id="cpGlowL" cx="0%" cy="0%" r="55%">
@@ -43,9 +43,9 @@
       </g>
       <text x="136" y="160" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#E8EDF5">Frontend Development</text>
       <g font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="17" fill="#8B96A9">
-        <circle cx="88" cy="200" r="3" fill="#00D9FF"/><text x="106" y="206">HTML5 · CSS3 · modern JavaScript (ES6+)</text>
-        <circle cx="88" cy="236" r="3" fill="#00D9FF"/><text x="106" y="242">React SPAs with reusable components</text>
-        <circle cx="88" cy="272" r="3" fill="#00D9FF"/><text x="106" y="278">Bootstrap &amp; Tailwind responsive layouts</text>
+        <circle cx="88" cy="200" r="3" fill="#00D9FF"/><text x="106" y="206">React 18 SPAs — Vite · React Router v6</text>
+        <circle cx="88" cy="236" r="3" fill="#00D9FF"/><text x="106" y="242">Tailwind CSS · Framer Motion · Radix UI</text>
+        <circle cx="88" cy="272" r="3" fill="#00D9FF"/><text x="106" y="278">Context API state · Axios interceptors</text>
         <circle cx="88" cy="308" r="3" fill="#00D9FF"/><text x="106" y="314">Pixel-perfect, cross-browser, mobile-first</text>
       </g>
     </g>
@@ -77,12 +77,12 @@
         <path d="M 75 398 L 75 430 A 20 8 0 0 0 115 430 L 115 398"/>
         <path d="M 75 414 A 20 8 0 0 0 115 414"/>
       </g>
-      <text x="136" y="424" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#E8EDF5">Backend &amp; WordPress</text>
+      <text x="136" y="424" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#E8EDF5">Backend Engineering</text>
       <g font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="17" fill="#8B96A9">
-        <circle cx="88" cy="464" r="3" fill="#00D9FF"/><text x="106" y="470">PHP &amp; MySQL dynamic applications</text>
-        <circle cx="88" cy="500" r="3" fill="#00D9FF"/><text x="106" y="506">Node.js / Express REST APIs</text>
-        <circle cx="88" cy="536" r="3" fill="#00D9FF"/><text x="106" y="542">Firebase &amp; MongoDB integrations</text>
-        <circle cx="88" cy="572" r="3" fill="#00D9FF"/><text x="106" y="578">Custom WordPress themes &amp; e-commerce</text>
+        <circle cx="88" cy="464" r="3" fill="#00D9FF"/><text x="106" y="470">Node.js / Express 4 REST APIs — ESM</text>
+        <circle cx="88" cy="500" r="3" fill="#00D9FF"/><text x="106" y="506">MongoDB (Mongoose 8) · Redis caching</text>
+        <circle cx="88" cy="536" r="3" fill="#00D9FF"/><text x="106" y="542">JWT auth · Google OAuth · rate limiting</text>
+        <circle cx="88" cy="572" r="3" fill="#00D9FF"/><text x="106" y="578">Stripe · SSLCommerz · bKash payments</text>
       </g>
     </g>
 
