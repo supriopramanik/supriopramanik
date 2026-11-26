@@ -268,7 +268,7 @@ My core is **MERN full-stack engineering** — **React 18 + Vite** frontends, **
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.fiverr.com/suprio_pramanik/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.fiverr.com/suprio_pramanik?public_mode=true" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/💚_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr - Suprio Pramanik"/>
       </a>
     </td>
